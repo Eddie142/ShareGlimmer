@@ -2232,7 +2232,7 @@ class ShareGlimmer {
 }
 
 const persistentStorage = new PersistentStorage();
-const ShareGlimmer = new ShareGlimmer();
+const shareGlimmer = new ShareGlimmer();
 
 
 if ('serviceWorker' in navigator) {
